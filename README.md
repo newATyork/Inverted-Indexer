@@ -1,3 +1,6 @@
+Built an inverted index structure from a set of downloaded web pages using Variable-Byte Coding and I/O Efficient Merge Sort with fixed memory usage, in C/C++.
+===========================================================================================================================
+
 ReadMe  of  HW 2
 
 How to compile the source code:
